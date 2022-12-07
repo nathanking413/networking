@@ -8,6 +8,7 @@
 1. TCP port 80 what HTTP servers use for web browser requests.
 2. Port 443 is the default port for SECURE HTTP.
 3. These are used for securely browsing the web through HTTP.
+
 OTHER PORTS:
 1. Port 25 is used for Simple Mail Transfer Protocol.
 2. Port 88 is what Xbox uses for its network. 
