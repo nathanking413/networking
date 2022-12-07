@@ -13,3 +13,11 @@ OTHER PORTS:
 1. Port 25 is used for Simple Mail Transfer Protocol.
 2. Port 88 is what Xbox uses for its network. 
 3. Port 194 is used by Internet Relay Chat, which is what Slack and Microsoft Teams use. 
+
+Number of "hops": 30.
+ISP: Samford University ("Samford Guest").
+It is 18 "hops" away.
+
+104.245.151.97 (Birmingham, Alabama, United States)
+104.245.151.97 (Birmingham, Alabama, United States)
+104.245.151.97 (Birmingham, Alabama, United States)
